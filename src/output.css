@@ -670,10 +670,6 @@ video {
   width: 18rem;
 }
 
-.w-80 {
-  width: 20rem;
-}
-
 .w-96 {
   width: 24rem;
 }
@@ -696,10 +692,6 @@ video {
 
 .flex-col {
   flex-direction: column;
-}
-
-.flex-col-reverse {
-  flex-direction: column-reverse;
 }
 
 .flex-wrap {
@@ -854,10 +846,6 @@ video {
   padding-left: 2.5rem;
 }
 
-.text-center {
-  text-align: center;
-}
-
 .font-body {
   font-family: Open Sans;
 }
@@ -995,11 +983,6 @@ video {
     .xxxs\:max-xxs\:mx-1 {
       margin-left: 0.25rem;
       margin-right: 0.25rem;
-    }
-
-    .xxxs\:max-xxs\:my-10 {
-      margin-top: 2.5rem;
-      margin-bottom: 2.5rem;
     }
 
     .xxxs\:max-xxs\:-mt-16 {
